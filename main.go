@@ -7,9 +7,9 @@ import (
 	"net"
 	"os"
 
-	"github.com/barnybug/gogsmmodem"
-	"github.com/codegangsta/cli"
-	"github.com/tarm/goserial"
+	"github.com/nut-abctech/at-command/Godeps/_workspace/src/github.com/barnybug/gogsmmodem"
+	"github.com/nut-abctech/at-command/Godeps/_workspace/src/github.com/codegangsta/cli"
+	"github.com/nut-abctech/at-command/Godeps/_workspace/src/github.com/tarm/goserial"
 )
 
 type server struct {

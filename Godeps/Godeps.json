@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/nut-abctech/at-command",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/barnybug/gogsmmodem",
+			"Rev": "0d374684936b324849d168c46a06beed33d5e7c5"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-161-gf445c89",
+			"Rev": "f445c894402839580d30de47551cedc152dad814"
+		},
+		{
+			"ImportPath": "github.com/tarm/goserial",
+			"Rev": "b3440c3c63556c3fd67e915be3b92195bc70294a"
+		}
+	]
+}
